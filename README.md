@@ -18,16 +18,11 @@
 <h2>ABOUT ME</h2>
 
 ```bash
-┌──(nikunj㉿data-lab)-[~/profile]
-└─$ whoami --full
-
-  Name     →  Nikunj Agarwal
-  Role     →  Data Science Student | Data Analyst | BI Developer
-  Company  →  Intern @ Deloitte
-  Stack    →  Python · SQL · Power BI · Excel · R
-  Focus    →  End-to-end analytics & dashboard development
-
-[✓] Profile loaded successfully
+> Nikunj Agarwal
+> Data Science Student | Data Analyst | BI Developer
+> Intern @ COP-G global pvt. ltd.
+> Python · SQL · Power BI · Excel · R
+> Building dashboards for retail & e-commerce businesses
 ```
 
 ---
@@ -84,9 +79,7 @@ I believe every dataset has a story — my job is to find it. I aim to bridge th
   <img src="https://streak-stats.demolab.com?user=Nikunj532&theme=github-dark&background=0d1117&border=30363d&ring=00C9FF&fire=F2C811&currStreakNum=00C9FF&sideNums=00C9FF&currStreakLabel=F2C811&sideLabels=F2C811&dates=c9d1d9" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikunj532&theme=dark&hide_border=true&layout=compact&langs_count=8&cache_seconds=1800" />
-</div>
+
 
 ---
 
