@@ -85,7 +85,7 @@ I believe every dataset has a story — my job is to find it. I aim to bridge th
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikunj532&theme=dark&hide_border=false&layout=compact&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikunj532&theme=dark&hide_border=true&layout=compact&langs_count=8&cache_seconds=1800" />
 </div>
 
 ---
