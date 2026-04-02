@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1f2e&height=200&section=header&text=Nikunj%20Agarwal&fontSize=60&fontColor=00C9FF&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%7C%20BI%20Developer%20%7C%20SQL%20Engineer&descAlignY=52&descSize=16" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1f2e&height=210&section=header&text=Nikunj%20Agarwal&fontSize=60&fontColor=00C9FF&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20BI%20Developer%20%7C%20SQL%20Engineer&descAlignY=58&descSize=16" width="100%">
 
   <div align="center">
     <img src="https://img.shields.io/badge/Python-Data%20Analysis%20%26%20EDA-00C9FF?style=for-the-badge&logo=python&logoColor=white"/>
@@ -21,12 +21,11 @@
 ┌──(nikunj㉿data-lab)-[~/profile]
 └─$ whoami --full
 
-> Nikunj Agarwal
-> Data Science Student | Data Analyst | BI Developer
-> Intern @ Deloitte
-> Python · SQL · Power BI · Excel · R
-> Competitive Programmer (C++) | Freelance Analytics Consultant
-> Building dashboards for retail & e-commerce businesses
+Name    : Nikunj Agarwal
+Role    : Data Science Student | Data Analyst | BI Developer
+Company : Intern @ Deloitte
+Stack   : Python · SQL · Power BI · Excel · R
+Focus   : Building dashboards & end-to-end analytics workflows
 ```
 
 ---
@@ -81,11 +80,6 @@ I believe every dataset has a story — my job is to find it. I aim to bridge th
 </div>
 
 <div align="center">
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Nikunj532&theme=github-dark&background=0d1117&border=30363d&ring=00C9FF&fire=F2C811&currStreakNum=00C9FF&sideNums=00C9FF&currStreakLabel=F2C811&sideLabels=F2C811&dates=c9d1d9" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Nikunj532&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikunj532&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
 
@@ -100,6 +94,9 @@ I believe every dataset has a story — my job is to find it. I aim to bridge th
 <div align="center">
   <a href="https://linkedin.com/in/nikunjagarwalji" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://nikunj532.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00C9FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:nikunjagarwal532@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
