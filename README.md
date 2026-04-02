@@ -81,15 +81,11 @@ I believe every dataset has a story — my job is to find it. I aim to bridge th
 </div>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Nikunj532&theme=github-dark&background=0d1117&border=30363d&ring=00C9FF&fire=F2C811&currStreakNum=00C9FF&sideNums=00C9FF&currStreakLabel=F2C811&sideLabels=F2C811&dates=c9d1d9" />
+  <img src="https://streak-stats.demolab.com?user=Nikunj532&theme=github-dark&background=0d1117&border=30363d&ring=00C9FF&fire=F2C811&currStreakNum=00C9FF&sideNums=00C9FF&currStreakLabel=F2C811&sideLabels=F2C811&dates=c9d1d9" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikunj532&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nikunj532&theme=darkhub&column=7&margin-w=15&margin-h=15&no-frame=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikunj532&theme=dark&hide_border=false&layout=compact&langs_count=8" />
 </div>
 
 ---
