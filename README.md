@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1f2e&height=230&section=header&text=Nikunj%20Agarwal&fontSize=60&fontColor=00C9FF&animation=fadeIn&fontAlignY=40&desc=Data%20Analyst%20%7C%20BI%20Developer%20%7C%20SQL%20Engineer&descAlignY=65&descSize=17" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1f2e&height=230&section=header&text=Nikunj%20Agarwal&fontSize=60&fontColor=00C9FF&animation=fadeIn&fontAlignY=40&desc=Data%20Analyst%20%7C%20BI%20Developer%20%7C%20SQL%20Engineer&descAlignY=65&descSize=17" width="100%"> 
 
   <div align="center">
     <img src="https://img.shields.io/badge/Python-Data%20Analysis%20%26%20EDA-00C9FF?style=for-the-badge&logo=python&logoColor=white"/>
